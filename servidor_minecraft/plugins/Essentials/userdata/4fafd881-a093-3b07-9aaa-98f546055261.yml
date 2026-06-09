@@ -1,0 +1,64 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.117.206.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1780990168147
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1780992544042
+  login: 1780989182699
+money: '0'
+last-account-name: Singularity7k
+lastlocation:
+  world: 86bd9bff-0135-4acd-9a83-4017f0f9ba47
+  world-name: world
+  x: -1478.7693344177185
+  y: 77.03226480331585
+  z: 102.1138520411217
+  yaw: -42.63232421875
+  pitch: 19.40228843688965
+homes:
+  casita:
+    world: 86bd9bff-0135-4acd-9a83-4017f0f9ba47
+    world-name: world
+    x: -1356.6443530317442
+    y: 79.0
+    z: 363.1904645152657
+    yaw: -80.99993896484375
+    pitch: 59.550048828125
+  aldeasav:
+    world: 86bd9bff-0135-4acd-9a83-4017f0f9ba47
+    world-name: world
+    x: -2567.8948552918064
+    y: 66.0
+    z: -797.014268906347
+    yaw: -128.76214599609375
+    pitch: 11.417895317077637
+  aldeaplains:
+    world: 86bd9bff-0135-4acd-9a83-4017f0f9ba47
+    world-name: world
+    x: -2681.27468518126
+    y: 63.0
+    z: 339.97582186046003
+    yaw: 126.524169921875
+    pitch: 2.2766826152801514
+nickname: Singularity7k
+logoutlocation:
+  world: 86bd9bff-0135-4acd-9a83-4017f0f9ba47
+  world-name: world
+  x: -1535.4822168090168
+  y: 65.9375
+  z: 53.01554403927801
+  yaw: -35.287750244140625
+  pitch: 17.37314224243164

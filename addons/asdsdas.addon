@@ -1,0 +1,11 @@
+a_name asda
+a_version 1.11
+a_author s1ngxl4rity
+
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+
+:button instalar_modpack
+text Instalar Modpack
+download_file https://www.dropbox.com/scl/fi/9hbv7ifnv4u2l2qkjece7/world.zip?rlkey=z9sc7vpao95rgt3sghz751dea&st=cx99x5vu&dl=1 singus.zip
+exec unzip singus.zip
+exec rm singus.zip

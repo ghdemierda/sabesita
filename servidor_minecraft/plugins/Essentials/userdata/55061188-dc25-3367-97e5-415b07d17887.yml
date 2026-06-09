@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.117.206.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1780990252274
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1780992327293
+  login: 1780989276585
+money: '0'
+last-account-name: noemiii_angg
+logoutlocation:
+  world: 86bd9bff-0135-4acd-9a83-4017f0f9ba47
+  world-name: world
+  x: -1512.2341522134861
+  y: 68.0
+  z: 76.9741320283432
+  yaw: 121.34732055664062
+  pitch: 24.749996185302734
+lastlocation:
+  world: 86bd9bff-0135-4acd-9a83-4017f0f9ba47
+  world-name: world
+  x: -1311.9487268914193
+  y: 87.3761427561547
+  z: 309.21981292139026
+  yaw: -46.83599853515625
+  pitch: 32.452301025390625
+homes:
+  franco:
+    world: 86bd9bff-0135-4acd-9a83-4017f0f9ba47
+    world-name: world
+    x: -1536.5237266435963
+    y: 66.0
+    z: 63.92509624779095
+    yaw: 164.24758911132812
+    pitch: 17.75617790222168

@@ -1,0 +1,46 @@
+# Kiss插件配置文件
+
+# 是否播放粒子效果
+particles:
+  enabled: true
+  type: "HEART"  # HEART, CLOUD, NOTE, SPELL_WITCH, END_ROD
+
+# 是否播放声音
+sounds:
+  enabled: true
+  kiss: "ENTITY_VILLAGER_YES"  # 亲吻声音
+  hug: "ENTITY_LLAMA_EAT"       # 拥抱声音
+  lick: "ENTITY_SLIME_SQUISH"   # 舔的声音
+
+# 是否在动作栏显示消息
+action-bar: true
+
+# 冷却时间（秒）
+cooldown: 3
+
+# 消息配置
+messages:
+  prefix: "&8[&d&lBeshito&8] &r"
+  no-permission: "&c¡No tienes permiso para ejecutar este comando！"
+  player-only: "&c¡Este comando solo puede ser ejecutado por el jugador!"
+  player-not-found: "&cJugador no encontrado {player}！"
+  cannot-kiss-self: "&cNo puedes besarte a ti mismo！"
+  cooldown: "&cse está enfriando. Por favor, espere {time}。"
+  
+  # 亲吻消息
+  kiss-sender: "&dBeshaste a &e{target} &d！rawrrwarw"
+  kiss-target: "&d{player} &dTe beshó！wrawrawra"
+  kiss-broadcast: "&d{player} &dLe dio un beshito a &e{target} &d！arwrawrawr"
+  
+  # 拥抱消息
+  hug-sender: "&dAbashaste a &e{target} &d！(｡♥‿♥｡)"
+  hug-target: "&d{player} &dTe abashó！(｡♥‿♥｡)"
+  hug-broadcast: "&d{player} &dLe dio un abashito a &e{target} &d！(｡♥‿♥｡)"
+  
+  # 舔消息
+  lick-sender: "&dLamiste a &e{target} &d一下！(*/ω＼*)"
+  lick-target: "&d{player} &dTe lamió！(*/ω＼*)"
+  lick-broadcast: "&d{player} &dLe dio una lamida a &e{target} &d一下！(*/ω＼*)"
+  
+  # 管理员命令
+  reload-success: "&aEl archivo de configuración se ha recargado！"
